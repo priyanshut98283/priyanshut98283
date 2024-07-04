@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshut98283&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshut98283" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshut98283" alt="priyanshut98283" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshut98283&theme=flat" alt="priyanshut98283" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 
 
 
-[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshut98283&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/priyanshut98283/github-readme-activity-graph)
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshut98283&theme=shades-of-purple&bg_color=003049&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/priyanshut98283/github-readme-activity-graph)
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
