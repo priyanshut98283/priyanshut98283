@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   - 🔭 I am currently pursuing B.Tech in Computer Science Engineering from Lovely Professional University (LPU) 💻.
   - 🌱 I’m currently learning Fullstack, Software and AI Technologies.
-  - 💬 Ask me about Full-Stack Development, AI & Machine Learning, Software Engineering, Coding and Guidance in Tech.
+  - 💬 Ask me about Full-Stack Development, AI, Software Engineering, Coding and Guidance in Tech.
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact:  My name means "First Ray of Sunlight" 🌅, "One who is beloved like the moon" 🌙, and signifies "the start of a new day" 🌞.
 
