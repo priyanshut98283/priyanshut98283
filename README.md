@@ -17,10 +17,10 @@
 &nbsp; &nbsp; 
 
 <!-- Profile views count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshut98283&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshut98283" /> </p>
+<p align="left">  <a href="https://github.com/priyanshut98283"><img src="https://komarev.com/ghpvc/?username=priyanshut98283&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshut98283" /></a> </p>
 
 <!-- Github trophy profile -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshut98283&theme=flat" alt="priyanshut98283" /></a> </p>
+<p align="left"> <a href="https://github.com/priyanshut98283"><img src="https://github-profile-trophy.vercel.app/?username=priyanshut98283&theme=flat" alt="priyanshut98283" /></a> </p>
  &nbsp; &nbsp; 
 
 <h3 align="left">Connect with me:</h3>
