@@ -1,21 +1,9 @@
 <!--
-**priyanshut98283/priyanshut98283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hello , I'm Priyanshu Tiwari 🙏
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌏 Check out my website: http://pt.in
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 -->
 <h1 align="center">Hi 🙏, I'm Priyanshu Tiwari</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h3> 
+
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
@@ -24,19 +12,19 @@ Here are some ideas to get you started:
   - 💬 Ask me about Full-Stack, AI, Software Engineering, Guidance in Tech or anything, I am happy to help.
   - 🌟 Languages Knows: Hindi, English
   - ⚡ Fun fact:  My name means "First Ray of Sunlight" 🌅, "One who is beloved like the moon" 🌙, and signifies "the start of a new day" 🌞.
-  <!-- - 🌏 Check out my website: http://pt.in  -->
+  <!-- - 🌏 Check out my website: [Priyanshu's Portfolio](https://portfolio-priyanshut.vercel.app/)  -->
 
 &nbsp; &nbsp; 
 
-<!-- <h1 align="center">Hi 👋, I'm Priyanshu Tiwari</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer</h3>
--->
+<!-- Profile views count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshut98283&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshut98283" /> </p>
 
+<!-- Github trophy profile -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshut98283&theme=flat" alt="priyanshut98283" /></a> </p>
  &nbsp; &nbsp; 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" height="40" width="40"/>](https://discord.gg/NU9rf7SJ)  &nbsp; 
@@ -50,8 +38,11 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/priyanshu_tiwari_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_tiwari_19" height="40" width="40" /></a>&nbsp; 
 <a href="https://auth.geeksforgeeks.org/user/priyanshut98283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshut98283" height="40" width="40" /></a>&nbsp; 
 </p>
- &nbsp; &nbsp; 
+
+&nbsp; &nbsp; 
+ 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -93,14 +84,11 @@ Here are some ideas to get you started:
 </p>
 
  &nbsp; &nbsp; 
- 
-| ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshut98283&show_icons=true&theme=shades-of-purple) | [![Priyanshu's Stri](https://streak-stats.demolab.com?user=priyanshut98283&theme=shades-of-purple&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+
+<!-- Stats in 2x2 Layout --> 
+| ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshut98283&show_icons=true&theme=shades-of-purple) | ![Priyanshu's Streak](https://streak-stats.demolab.com?user=priyanshut98283&theme=shades-of-purple&border_radius=7&mode=weekly) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshut98283&layout=compact&&show_icons=true&theme=shades-of-purple&card_width=470)](https://github.com/priyanshut98283/github-readme-stats) | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshut98283&theme=shades-of-purple" alt="priyanshut98283" /></p>
-                                                             
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshut98283&layout=compact&&show_icons=true&theme=shades-of-purple&card_width=470) | ![Priyanshu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshut98283&theme=shades-of-purple) |
 
-
-
-[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshut98283&theme=shades-of-purple&bg_color=003049&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/priyanshut98283/github-readme-activity-graph)
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<!-- Activity graph -->
+![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshut98283&theme=shades-of-purple&bg_color=003049&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)
