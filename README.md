@@ -37,6 +37,7 @@
 <a href="https://codeforces.com/profile/_soldier-never-off-duty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_soldier-never-off-duty" height="40" width="40" /></a>&nbsp; 
 <a href="https://www.leetcode.com/priyanshu_tiwari_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_tiwari_19" height="40" width="40" /></a>&nbsp; 
 <a href="https://auth.geeksforgeeks.org/user/priyanshut98283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshut98283" height="40" width="40" /></a>&nbsp; 
+<a href="https://medium.com/@priyanshut98283" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=gU6bwZNC5TXf&format=png&color=000000" alt="priyanshut98283" height="40" width="40" /></a>&nbsp;
 </p>
 
 &nbsp; &nbsp; 
