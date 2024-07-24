@@ -12,7 +12,7 @@
   - 💬 Ask me about Full-Stack, AI, Software Engineering, Guidance in Tech or anything, I am happy to help.
   - 🌟 Languages Knows: Hindi, English
   - ⚡ Fun fact:  My name means "First Ray of Sunlight" 🌅, "One who is beloved like the moon" 🌙, and signifies "the start of a new day" 🌞.
-  <!-- - 🌏 Check out my website: [Priyanshu's Portfolio](https://portfolio-priyanshut.vercel.app/)  -->
+  - 🌏 Check out my website: [Priyanshu's Portfolio](https://portfolio-priyanshut.vercel.app/)
 
 &nbsp; &nbsp; 
 
