@@ -2,7 +2,7 @@
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 -->
 <h1 align="center">Hi 🙏, I'm Priyanshu Tiwari</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer</h3> 
+<h3 align="center">SDE (Frontend) | App Developer</h3> 
 
 <a href="https://github.com/priyanshut98283"> <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> </a>
 <a href="https://github.com/priyanshut98283"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
