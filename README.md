@@ -7,7 +7,7 @@
 <a href="https://github.com/priyanshut98283"> <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> </a>
 <a href="https://github.com/priyanshut98283"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I am currently pursuing B.Tech in Computer Science Engineering from Lovely Professional University (LPU) 💻.
+  - 🔭 I’m currently working as a Frontend Developer, building responsive, user-friendly web applications using React, Next.js, and Tailwind CSS. 💻.
   - 🌱 I’m currently learning Fullstack, Software and AI Technologies.
   - 💬 Ask me about Full-Stack, AI, Software Engineering, Guidance in Tech or anything, I am happy to help.
   - 🌟 Languages Knows: Hindi, English
@@ -29,8 +29,11 @@
 
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" height="40" width="40"/>](https://discord.gg/NU9rf7SJ)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" height="40" width="40"/>](https://twitter.com/priyanshut98283)  &nbsp; 
+<!--
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" height="40" width="40"/>](https://www.facebook.com/priyanshut98283)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40" width="40"/>](https://www.instagram.com/priyanshut98283)  &nbsp; <a href="mailto:priyanshut98283@gmail.com"> 
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40" width="40"/>](https://www.instagram.com/priyanshut98283)  &nbsp; 
+-->
+<a href="mailto:priyanshut98283@gmail.com"> 
 <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="40" width="40"/>
   
 <a href="https://linkedin.com/in/priyanshut-tiwari-pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshut-tiwari-pt" height="30" width="40" /></a>&nbsp; 
